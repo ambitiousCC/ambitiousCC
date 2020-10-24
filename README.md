@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 ## introduce
 
-<a href="https://github.com/ambitiousCC/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ambitiousCC&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
-</a>
+![GEAT](https://github-readme-stats.vercel.app/api?username=ambitiousCC&show_icons=true&theme=radical)
+
 
 ## Platform&Tools
 
