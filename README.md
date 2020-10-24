@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## introduce
 
-![GEAT](https://github-readme-stats.vercel.app/api?username=ambitiousCC&show_icons=true&theme=dracula&hide=starscount_private=true)
+![GEAT](https://github-readme-stats.vercel.app/api?username=ambitiousCC&show_icons=true&theme=dark&hide=stars&count_private=true)
 
 
 ## Platform&Tools
