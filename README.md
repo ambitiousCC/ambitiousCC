@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning in school.
 ## introduce
 
 ![GEAT](https://github-readme-stats.vercel.app/api?username=ambitiousCC&show_icons=true&theme=dark&hide=stars&count_private=true)
