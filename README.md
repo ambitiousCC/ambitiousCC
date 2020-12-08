@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://stylus-lang.com/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambitiousC&layout=compact)](https://github.com/ambitiousC)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambitiousCC&layout=compact)](https://github.com/ambitiousCC)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ambitiousCC.readme)
