@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning in school.
-- 🤔 I’m looking for help with ML and Linux.
+- 🌱 I’m currently learning in school's lab.
+- 🤔 I’m looking for help with DL and FED and WebCam.
 ## introduce
 
 ![GEAT](https://github-readme-stats.vercel.app/api?username=ambitiousCC&show_icons=true&theme=dark&hide=stars&count_private=true)
