@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**ambitiousCC/ambitiousCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,22 +8,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning in school's lab.
-- 🤔 I’m looking for help with DL and FED and WebCam.
-## introduce
-
-![GEAT](https://github-readme-stats.vercel.app/api?username=ambitiousCC&show_icons=true&theme=dark&hide=stars&count_private=true)
-
-
-## Platform&Tools
-
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://stylus-lang.com/)
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambitiousCC&layout=compact)](https://github.com/ambitiousCC)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ambitiousCC.readme)
