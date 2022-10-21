@@ -7,4 +7,6 @@
 - 🔭 I’m currently working on a CVD(Cloud Virtual Desktop) System.
 -->
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ambitiousCC&theme=react" /> </div>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ambitiousCC.readme)
